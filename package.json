@@ -1,7 +1,10 @@
 {
   "name": "node-restangular",
-  "author": "Graham J",
-  "version": "0.1",
+  "author": {
+    "name": "Graham J",
+    "email": "oss@graham.ninja"
+  },
+  "version": "0.1.0",
   "keywords": [
     "node",
     "restangular"
