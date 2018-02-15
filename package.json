@@ -13,14 +13,16 @@
   "description": "Use Restangular in node.js by Graham J",
   "dependencies": {
     "angular": "^1.2.19",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.5",
     "restangular": "^1.4.0"
   },
   "devDependencies": {},
-  "bugs" : { "url" : "https://github.com/grahamj/node-restangular/issues" },
+  "bugs": {
+    "url": "https://github.com/grahamj/node-restangular/issues"
+  },
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/grahamj/node-restangular.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grahamj/node-restangular.git"
   }
 }
